@@ -12,6 +12,32 @@
 - Ahmad Anas Bin Azhar (22005996)
 - Muhammad Hanis Afifi Bin Azmi (22001602)
 
+## Table of Contents
+
+- [TEB2093 Computer Security - Lab 07](#teb2093-computer-security---lab-07)
+  - [Members](#members)
+  - [Table of Contents](#table-of-contents)
+  - [Part 1: Understanding Digital Signatures](#part-1-understanding-digital-signatures)
+    - [Part 1 Activity 1 - Generating RSA Key Pairs](#part-1-activity-1---generating-rsa-key-pairs)
+      - [Acitivity 1 Tasks](#acitivity-1-tasks)
+      - [Part 1 Activity 1 Questions](#part-1-activity-1-questions)
+    - [Part 1 Activity 2 - Creating a Digital Signature](#part-1-activity-2---creating-a-digital-signature)
+      - [Part 1 Activity 2 Tasks](#part-1-activity-2-tasks)
+      - [Part 1 Activity 2 Questions](#part-1-activity-2-questions)
+    - [Part 1 Activity 3 - Verifying a Digital Signature](#part-1-activity-3---verifying-a-digital-signature)
+      - [Part 1 Activity 3 Tasks](#part-1-activity-3-tasks)
+      - [Part 1 Activity 3 Questions](#part-1-activity-3-questions)
+    - [Part 1 Activity 4 - Experimenting with Different Hash Algorithms](#part-1-activity-4---experimenting-with-different-hash-algorithms)
+      - [Part 1 Activity 4 Tasks](#part-1-activity-4-tasks)
+      - [Part 1 Activity 4 Questions](#part-1-activity-4-questions)
+  - [Part 2: Using Digital Signatures in Email Communications](#part-2-using-digital-signatures-in-email-communications)
+    - [Part 2 Activity 1 - Installing and Configuring GnuPG and Thunderbird](#part-2-activity-1---installing-and-configuring-gnupg-and-thunderbird)
+      - [Part 2 Activity 1 Tasks](#part-2-activity-1-tasks)
+      - [Part 2 Activity 1 Questions](#part-2-activity-1-questions)
+    - [Part 2 Activity 2 - Generating and Importing Keys](#part-2-activity-2---generating-and-importing-keys)
+  - [Helper Script](#helper-script)
+    - [Usage](#usage)
+
 ## Part 1: Understanding Digital Signatures
 
 ### Part 1 Activity 1 - Generating RSA Key Pairs
