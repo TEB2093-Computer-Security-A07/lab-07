@@ -19,7 +19,7 @@
   - [Table of Contents](#table-of-contents)
   - [Part 1: Understanding Digital Signatures](#part-1-understanding-digital-signatures)
     - [Part 1 Activity 1 - Generating RSA Key Pairs](#part-1-activity-1---generating-rsa-key-pairs)
-      - [Acitivity 1 Tasks](#acitivity-1-tasks)
+      - [Part 1 Activity 1 Tasks](#part-1-activity-1-tasks)
       - [Part 1 Activity 1 Questions](#part-1-activity-1-questions)
     - [Part 1 Activity 2 - Creating a Digital Signature](#part-1-activity-2---creating-a-digital-signature)
       - [Part 1 Activity 2 Tasks](#part-1-activity-2-tasks)
@@ -50,7 +50,7 @@
 
 ### Part 1 Activity 1 - Generating RSA Key Pairs
 
-#### Acitivity 1 Tasks
+#### Part 1 Activity 1 Tasks
 
 Generate private key:
 
