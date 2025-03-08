@@ -35,6 +35,14 @@
       - [Part 2 Activity 1 Tasks](#part-2-activity-1-tasks)
       - [Part 2 Activity 1 Questions](#part-2-activity-1-questions)
     - [Part 2 Activity 2 - Generating and Importing Keys](#part-2-activity-2---generating-and-importing-keys)
+      - [Part 2 Activity 2 Tasks](#part-2-activity-2-tasks)
+      - [Part 2 Activity 2 Questions](#part-2-activity-2-questions)
+    - [Part 2 Activity 3 - Signing an Email](#part-2-activity-3---signing-an-email)
+      - [Part 2 Activity 3 Tasks](#part-2-activity-3-tasks)
+      - [Part 2 Activity 3 Questions](#part-2-activity-3-questions)
+    - [Part 2 Activity 4 - Verifying a Signed Email](#part-2-activity-4---verifying-a-signed-email)
+      - [Part 2 Activity 4 Task](#part-2-activity-4-task)
+      - [Part 2 Activity 4 Questions](#part-2-activity-4-questions)
   - [Helper Script](#helper-script)
     - [Usage](#usage)
 
@@ -292,6 +300,8 @@ Installing Thunderbird:
 
 ### Part 2 Activity 2 - Generating and Importing Keys
 
+#### Part 2 Activity 2 Tasks
+
 At the time of writing this, `Enigmail` add-on does not support Thunderbird version `128.7`. Different steps are taken to achieve the activity objectives.
 
 Generating keys:
@@ -300,9 +310,127 @@ Generating keys:
 
 ![Keys Setup Successful](./assets/keys_setup_successful.png)
 
+Public key generated:
+
+```txt
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+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
+qDyRstpY
+=Nll5
+-----END PGP PUBLIC KEY BLOCK-----
+```
+
 Importing public keys:
 
-<!-- TODO: continue other tasks here with partner -->
+![Before Adding Public Key on Recipient Side](./assets/before_adding_public_key.png)
+
+![Adding Public Key on Recipient Side](./assets/adding_public_key.png)
+
+![Added Public Key on Recipient Side](./assets/added_public_key.png)
+
+#### Part 2 Activity 2 Questions
+
+1. Why is key generation important in digital signatures?
+    Key generation creates a unique pair of cryptographic keys (using large random numbers) which are necessary for signing and verifying digital messages securely.
+2. Explain the process of importing a public key and its importance.
+    Importing a public key allows a recipient to verify signatures sent by the key's owner. Without importing the correct public key, signature verification will fail.
+
+### Part 2 Activity 3 - Signing an Email
+
+#### Part 2 Activity 3 Tasks
+
+Composing a Signed Email:
+
+![Email Signed and Sent by the Key's Owner](./assets/signed_email.png)
+
+Verifying the Signature:
+
+![Verifying Imported Public Key on Recipient Side](./assets/verified_public_key.png)
+
+#### Part 2 Activity 3 Questions
+
+1. Describe the steps to sign an email in Thunderbird.
+    1. Generate private and public keys in `Account Settings > End-To-End Encryption > Add key`.
+    2. Optional: Publish the public key to `vks://keys.openpgp.org` by clicking on the `Publish` button when your key is selected on the `End-To-End Encryption` page.
+    3. Compose a new email.
+    4. Click on the dropdown list for OpenPGP, and check `Digitally Sign`.
+    5. Send the email.
+
+2. What benefits does a signed email provide to the recipient?
+    - Authenticity: Confirms the sender's identity.
+    - Integrity: Ensures the message has not been altered.
+    - Non-repudiation: Prevents the sender from denoying the email was sent.
+
+### Part 2 Activity 4 - Verifying a Signed Email
+
+#### Part 2 Activity 4 Task
+
+Receiving and Verifying:
+
+![Email Before Adding Public Key](./assets/email_before_adding_public_key.png)
+
+![Email Before Verifying Public Key](./assets/email_before_verifying_public_key.png)
+
+![Email After Verifying Public Key](./assets/email_after_verifying_public_key.png)
+
+#### Part 2 Activity 4 Questions
+
+1. Explain how the verification of a signed email is performed.
+    On Thunderbird version `128`, the verification is done automatically. However, to perform manual checks, the recipient uses the sender's public key, decrypts the signature part, and compares the hash of the decrypted hash with the hash of the received message.
+
+2. What are the possible reasons for a verification failure?
+    - Recipient has not imported the correct public key.
+    - Recipient has not verified the public key.
+    - Email has been modified after signing.
+    - Signature corruption during transmission.
+    - Incorrect hashing algorithm used for verification.
 
 ## Helper Script
 
